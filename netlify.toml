@@ -1,4 +1,5 @@
 [build]
   publish = "bundle"
   functions = "functions"
-  command = "npm run build"
+  CI= npm run build 
+

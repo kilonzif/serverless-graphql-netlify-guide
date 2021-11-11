@@ -1,5 +1,5 @@
 [build]
   publish = "bundle"
   functions = "functions"
-  CI= "npm run build" 
+  ci= "npm run build" 
 
